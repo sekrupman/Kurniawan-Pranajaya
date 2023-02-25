@@ -1,9 +1,16 @@
 --
 
+<<<<<<< HEAD
 
 
 
 --
+=======
+-- Syahrial
+1. John Wick
+2. Avatar
+3. IP MAN
+>>>>>>> 8872bc4027f4ccf0d410356241a893d41008d5d2
 
 
 
