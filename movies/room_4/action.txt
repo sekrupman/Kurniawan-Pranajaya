@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 --Ribka
 1. Breaking Bad
 2. Titanic
@@ -5,5 +6,18 @@
 --
 
 --
+=======
+--
+
+-- Syahrial
+1. John Wick
+2. Avatar
+3. IP MAN
+
+--Aura Islamy
+1. Ocean's 8
+2. The hunger games
+3. Jumanji
+>>>>>>> ad82d892cfbd7043e0b81e1e1b5af1fd84b94261
 
 --
